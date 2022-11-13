@@ -1,0 +1,15 @@
+# System files
+**/.DS_Store
+
+# Node
+**/node_modules
+
+# Cache
+**/.cache
+
+# TypeScript compiler output
+**.js
+**.js.map
+**.d.ts
+!**/test.js
+!**/*.test.js
