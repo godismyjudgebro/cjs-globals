@@ -4,7 +4,7 @@
     "node": ">=14.16"
   },
   "name": "cjs-globals",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Use CommonJS globals, such as `__dirname` and `__filename`, in EcmaScript modules.",
   "keywords": [
     "__dirname",

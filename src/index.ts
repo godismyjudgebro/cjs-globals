@@ -77,7 +77,7 @@ const pathRegex = new RegExp(
  *
  * cjs.__dirname // => /home/user/project
  * cjs.__filename // => /home/user/project/example.js
- * cjs.resolve('./other.js') // => /home/user/project/other.js
+ * cjs.require.resolve('./other.js') // => /home/user/project/other.js
  *
  * // Discouraged, but added for completeness:
  * cjs.require('./other.js') // => "other.js" exports.
